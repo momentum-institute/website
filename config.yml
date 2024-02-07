@@ -60,10 +60,10 @@ params:
   ShowCodeCopyButtons: true
   ShowRssButtonInSectionTermList: true
   ShowAllPagesInArchive: true
-  ShowPageNums: true
+  ShowPageNums: false
   ShowToc: true
   # comments: false
-  images: ["images/papermod-cover.png"]
+  images: ["images/icon-logo.jpg"]
 
   profileMode:
     enabled: true # needs to be explicitly set
