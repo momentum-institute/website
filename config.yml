@@ -67,7 +67,7 @@ params:
 
   profileMode:
     enabled: true # needs to be explicitly set
-    title: The Clear Path to a Life of Meaning
+    title: The Clear Path to a Meaningful Life
     subtitle: "Character. Mission. Impact."
     imageUrl: "../assets/images/icon-logo.jpg"
     imageWidth: 120
