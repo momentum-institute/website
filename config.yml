@@ -49,13 +49,13 @@ params:
   author: David Mainville
   # author: ["Me", "You"] # multiple authors
 
-  defaultTheme: auto
-  # disableThemeToggle: true
+  defaultTheme: light
+  disableThemeToggle: true
   ShowShareButtons: true
   ShowReadingTime: true
   # disableSpecial1stPost: true
   displayFullLangName: true
-  ShowPostNavLinks: true
+  ShowPostNavLinks: false
   ShowBreadCrumbs: true
   ShowCodeCopyButtons: true
   ShowRssButtonInSectionTermList: true
@@ -67,9 +67,9 @@ params:
 
   profileMode:
     enabled: true # needs to be explicitly set
-    title: The Momentum Map
-    subtitle: "The Clear Path to a Life of Meaning"
-    imageUrl: "https://placehold.it/120x120/profile.jpg"
+    title: The Clear Path to a Life of Meaning
+    subtitle: "Character. Mission. Impact."
+    imageUrl: "../assets/images/icon-logo.jpg"
     imageWidth: 120
     imageHeight: 120
     imageTitle: The Momentum Map
@@ -80,15 +80,9 @@ params:
       #   url: tags
 
   homeInfoParams:
-    Title: "PaperMod's Demo"
+    Title: "How To Live a Life of Meaning"
     Content: >
-      👋 Welcome to demo page of Hugo's theme PaperMod!
-
-      - **PaperMod**  is designed to be clean and simple but fast and responsive theme with useful feature-set that enhances UX.
-
-      - Feel free to show your support by giving us a star 🌟 on GitHub and sharing with your friends and social media .
-
-      - PaperMod is based on theme [Paper](https://github.com/nanxiaobei/hugo-paper/tree/4330c8b12aa48bfdecbcad6ad66145f679a430b3).
+      _Without losing your sense of identitity_
 
   socialIcons:
     # - name: github
