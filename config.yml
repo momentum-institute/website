@@ -17,25 +17,31 @@ minify:
   disableXML: true
   minifyOutput: true
 
-# languages:
-#   en:
-#     languageName: "English"
-#     weight: 1
-#     taxonomies:
-#       category: categories
-#       tag: tags
-#       series: series
-#     menu:
-#       main:
-#         - name: Archive
-#           url: archives
-#           weight: 5
-#         - name: Search
-#           url: search/
-#           weight: 10
-#         - name: Tags
-#           url: tags/
-#           weight: 10
+languages:
+  en:
+    languageName: "English"
+    weight: 1
+    taxonomies:
+      category: categories
+      tag: tags
+      series: series
+    menu:
+      main:
+        - name: Model
+          url: model/curriculum-overview
+          weight: 1
+        - name: Program
+          url: program/12-week-momentum-coaching
+          weight: 2
+        # - name: Archive
+        #   url: archives
+        #   weight: 5
+        - name: Search
+          url: search/
+          weight: 10
+        # - name: Tags
+        #   url: tags/
+        #   weight: 10
 
 outputs:
   home:
@@ -44,7 +50,7 @@ outputs:
     - JSON
 
 params:
-  env: production # to enable google analytics, opengraph, twitter-cards and schema.
+  env: dev # to enable google analytics, opengraph, twitter-cards and schema.
   description: "Momentum Institute - Live with Momentum"
   author: David Mainville
   # author: ["Me", "You"] # multiple authors
@@ -67,15 +73,15 @@ params:
 
   profileMode:
     enabled: true # needs to be explicitly set
-    title: The Clear Path to a Meaningful Life
-    subtitle: "Character. Mission. Impact."
+    title: "We Help Corporate Professionals Achieve a Healthy Work-Life Balance in Just 12 Weeks"
+    subtitle: "Without sleepless nights, missed commitments, or days full of accomplishments but empty of achievement."
     imageUrl: "../assets/images/icon-logo.jpg"
     imageWidth: 120
     imageHeight: 120
     imageTitle: The Momentum Map
     buttons:
-      # - name: Posts
-      #   url: posts
+      - name: Start Your Journey
+        url: program/12-week-momentum-coaching/
       # - name: Tags
       #   url: tags
 
