@@ -49,4 +49,4 @@ Due to high demand, there’s currently a waitlist, but securing your seat now m
 
 We’re so confident in the value and effectiveness of our program that we offer a 100% no-questions-asked money-back guarantee. Complete 100% of the exercises and if you don’t feel more resilient by the end of the program, we will refund your investment in full. This is our commitment to your success and satisfaction. 
 
-Don’t miss out on this opportunity to transform your professional and personal life. [Secure your spot today and take the first step towards a more resilient, fulfilling future.](https://accelerate.thrivecart.com/12-week-momentum-coaching/)
+Don’t miss out on this opportunity to transform your professional and personal life. [Secure your spot in our next 12-week squad and take the first step towards a more resilient, fulfilling future.](https://accelerate.thrivecart.com/12-week-momentum-coaching/)
