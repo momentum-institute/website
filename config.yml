@@ -30,15 +30,15 @@ languages:
         - name: Model
           url: model/curriculum-overview
           weight: 1
-        - name: Program
-          url: program/12-week-momentum-coaching
-          weight: 2
+        # - name: Program
+        #   url: program/12-week-momentum-coaching
+        #   weight: 2
         # - name: Archive
         #   url: archives
         #   weight: 5
-        - name: Search
-          url: search/
-          weight: 10
+        # - name: Search
+        #   url: search/
+        #   weight: 10
         # - name: Tags
         #   url: tags/
         #   weight: 10
@@ -73,15 +73,15 @@ params:
 
   profileMode:
     enabled: true # needs to be explicitly set
-    title: "We Help Corporate Professionals Achieve a Healthy Work-Life Balance in Just 12 Weeks"
-    subtitle: "Without sleepless nights, missed commitments, or days full of accomplishments but empty of achievement."
+    title: "New 9-Step Resilience Roadmap for Professionals with Demanding Jobs"
+    subtitle: "Learn how to navigate challenges and sustain motivation without stress, overwhelm, or compromising values"
     imageUrl: "../assets/images/icon-logo.jpg"
     imageWidth: 120
     imageHeight: 120
     imageTitle: The Momentum Map
     buttons:
-      - name: Start Your Journey
-        url: program/12-week-momentum-coaching/
+      - name: Learn More
+        url: model/curriculum-overview
       # - name: Tags
       #   url: tags
 

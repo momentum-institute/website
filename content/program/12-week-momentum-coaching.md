@@ -1,6 +1,7 @@
 ---
 title: Unlock the Life You’re Meant to Live
 showToc: false
+draft: true
 ---
 
 Ever felt stuck, wondering if this is all life has to offer? What if instead of wake up, breakfast, kids, commute, work, dinner, repete - the bored aimlessness is replaced with purpose, passion, and fulfillment? 
