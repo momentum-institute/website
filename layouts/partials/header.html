@@ -40,7 +40,7 @@
 {{- end }}
 
 <header class="header">
-    {{/*  {{ if .IsHome }}  */}}
+    {{ if not .IsHome }}
     <nav class="nav">
         <div class="logo">
             {{- $label_text := (site.Params.label.text | default site.Title) }}
@@ -147,5 +147,5 @@
             {{- end }}
         </ul>
     </nav>
-    {{/*  {{ end }}  */}}
+    {{ end }}
 </header>
