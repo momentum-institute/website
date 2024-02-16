@@ -1,5 +1,6 @@
 ---
 title: "Model Overview"
+showToc: false
 ---
 
 In jobs that demand a lot from you, feeling like you're always trying to catch up is common. Each day throws new challenges your way, from meeting tight deadlines to working well with your team, all while trying to live up to high standards.
@@ -40,8 +41,12 @@ Feeling alone and unsure of the impact you're making? We focus on growing your i
 
 ## Build Resilience
 
-Ready to tackle the challenges of your demanding job and excel in all areas of your life? If you're prepared to build resilience, find purpose, and make a lasting mark, now's the time to act. Our program is designed to transform your life for the better, but space is intentionally limited to small squads. This ensures each participant receives the attention needed to foster rapid and meaningful change. 
+Ready to tackle the challenges of your demanding job and excel in all areas of your life? If you're prepared to build resilience, find purpose, and make a lasting mark, now's the time to act. 
+
+Our program is designed to transform your life for the better, but space is intentionally limited to small squads. This ensures each participant receives the attention needed to foster rapid and meaningful change. 
 
 Due to high demand, there’s currently a waitlist, but securing your seat now means you’ll be considered for the next available squad.
 
-We’re so confident in the value and effectiveness of our program that we offer a 100% no-questions-asked money-back guarantee. If you complete 100% of the exercises and don’t feel more resilient by the end of the program, we will refund your investment in full. This is our commitment to your success and satisfaction. Don’t miss out on this opportunity to transform your professional and personal life. [Secure your spot today and take the first step towards a more resilient, fulfilling future.](https://accelerate.thrivecart.com/12-week-momentum-coaching/)
+We’re so confident in the value and effectiveness of our program that we offer a 100% no-questions-asked money-back guarantee. Complete 100% of the exercises and if you don’t feel more resilient by the end of the program, we will refund your investment in full. This is our commitment to your success and satisfaction. 
+
+Don’t miss out on this opportunity to transform your professional and personal life. [Secure your spot today and take the first step towards a more resilient, fulfilling future.](https://accelerate.thrivecart.com/12-week-momentum-coaching/)
