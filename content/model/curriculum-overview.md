@@ -37,3 +37,9 @@ Feeling swamped by endless tasks and always putting things off? Join us to maste
 Fed up with being ruled by your emotions or feeling out of touch? We'll guide you through becoming more emotionally intelligent and mindful, helping you face life's challenges with grace. This journey is about gaining mental clarity and emotional strength, preparing you for long-lasting success.
 
 Feeling alone and unsure of the impact you're making? We focus on growing your influence by creating a supportive community and leaving a lasting legacy. It's about moving from focusing on yourself to making a real difference in the world.
+
+Ready to tackle the challenges of your demanding job and excel in all areas of your life? If you're prepared to build resilience, find purpose, and make a lasting mark, now's the time to act. Our program is designed to transform your life for the better, but space is intentionally limited to small squads. This ensures each participant receives the attention needed to foster rapid and meaningful change. 
+
+Due to high demand, there’s currently a waitlist, but securing your seat now means you’ll be considered for the next available squad.
+
+We’re so confident in the value and effectiveness of our program that we offer a 100% no-questions-asked money-back guarantee. If you complete 100% of the exercises and don’t feel more resilient by the end of the program, we will refund your investment in full. This is our commitment to your success and satisfaction. Don’t miss out on this opportunity to transform your professional and personal life. [Secure your spot today and take the first step towards a more resilient, fulfilling future.](https://accelerate.thrivecart.com/12-week-momentum-coaching/)
