@@ -49,6 +49,24 @@ Our program is designed to transform your life for the better, but space is inte
 
 Due to high demand, there’s currently a waitlist, but securing your seat now means you’ll be considered for the next available squad.
 
+**What You Get:**
+
+- **A Clear Path**: Receive a battle-tested roadmap designed to navigate the stress and high demands of your personal and professional life, transforming these challenges into opportunities for growth and fulfillment.
+
+- **Personalized Strategies**: Learn through our nine-strategy model, focusing on what drives you, setting attainable goals, and mastering the art of inspiring those around you.
+
+- **Character Development**: Dive deep into self-discovery, identifying your core values and translating them into actionable principles for living a life of integrity and fulfillment.
+
+- **Leadership Skills**: Evolve from questioning your leadership potential to confidently motivating and guiding others, whether at work, at home, or within your community.
+
+- **Time Management Mastery**: Shift from feeling overwhelmed by tasks to mastering self-discipline and effective time management, ensuring your daily actions align with your larger mission.
+
+- **Emotional Resilience**: Cultivate emotional intelligence and mindfulness to navigate life's ups and downs with grace, enhancing your mental clarity and emotional strength.
+
+- **Community Engagement**: Broaden your impact by building supportive networks and creating a legacy that extends beyond your personal achievements.
+
+This bootcamp is your opportunity to not just cope with the pressures of a demanding career but to thrive, finding meaning and fulfillment in every aspect of your life.
+
 We’re so confident in the value and effectiveness of our program that we offer a 100% no-questions-asked money-back guarantee. Complete 100% of the exercises and if you don’t feel more resilient by the end of the program, we will refund your investment in full. This is our commitment to your success and satisfaction. 
 
 Don’t miss out on this opportunity to transform your professional and personal life. [Secure your spot in our next 12-week squad and take the first step towards a more resilient, fulfilling future.](https://accelerate.thrivecart.com/12-week-momentum-coaching/)
