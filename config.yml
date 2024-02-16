@@ -74,7 +74,7 @@ params:
   profileMode:
     enabled: true # needs to be explicitly set
     title: "New 9-Step Resilience Roadmap for Professionals with Demanding Jobs"
-    subtitle: "Learn how to navigate challenges and sustain motivation without stress, overwhelm, or compromising values"
+    subtitle: "Learn how to navigate challenges and sustain motivation<br>without stress, overwhelm, or compromised values"
     imageUrl: "../assets/images/icon-logo.jpg"
     imageWidth: 120
     imageHeight: 120
