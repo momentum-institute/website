@@ -73,8 +73,8 @@ params:
 
   profileMode:
     enabled: true # needs to be explicitly set
-    title: "We Help Busy Professionals Stop Running On Empty"
-    subtitle: "Learn to reclaim 'me time', sustain motivation, and get more done in just 12-weeks<br>without stress, overwhelm, or compromising on your values"
+    title: "Stop Running On Empty"
+    subtitle: "We help __Busy Dads__, __Motivated Husbands__, and __Ambitious Men__ reclaim 'me time', sustain motivation, and get more done in just 12-weeks without being spread thin, or compromising on values"
     imageUrl: "../assets/images/icon-logo.jpg"
     imageWidth: 120
     imageHeight: 120
