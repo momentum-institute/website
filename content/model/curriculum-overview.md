@@ -47,7 +47,7 @@ To ensure the best possible experience and personalized attention, spots in the 
 
 We’re so confident in the value and effectiveness of our program that we offer a 100% no-questions-asked money-back guarantee. After completing all the exercises if you don’t feel more connected with a deeper and more fulfilling life, allowing you to reclaim your calendar and Stop Running on Empty, we will refund your investment in full. This is our commitment to your success and satisfaction. 
 
-If you're ready to Stop Running on Empty and start living with more meaningful moments, don't wait. [Secure your spot on the waiting list for the next available group and take the first step towards a life that's truly yours.](https://accelerate.thrivecart.com/12-week-momentum-coaching/)
+If you're ready to Stop Running on Empty and start living with more meaningful moments, don't wait. [Secure your spot on the waiting list for the next available group and take the first step towards a life that's truly yours.](https://accelerate.thrivecart.com/12-week-momentum-sprint/)
 
 To Your Best,
 
@@ -55,4 +55,4 @@ To Your Best,
 
     _Founder & Education Director, Momentum Institute_
 
-_P.S. We keep squads small and you must be on the waiting list to be be considered for an invitation. [Secure your spot today.](https://accelerate.thrivecart.com/12-week-momentum-coaching/)._
+_P.S. We keep squads small and you must be on the waiting list to be be considered for an invitation. [Secure your spot today.](https://accelerate.thrivecart.com/12-week-momentum-sprint/)._
