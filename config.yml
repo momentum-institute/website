@@ -50,7 +50,7 @@ outputs:
     - JSON
 
 params:
-  env: dev # to enable google analytics, opengraph, twitter-cards and schema.
+  env: production # to enable google analytics, opengraph, twitter-cards and schema.
   description: "Momentum Institute - Live with Momentum"
   author: David Mainville
   # author: ["Me", "You"] # multiple authors
