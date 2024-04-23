@@ -37,6 +37,6 @@ This is your moment to decide. Continue on the path of uncertainty, or take the 
 
 To a life well-lived,
 
-**Dave Mainville** *- Founder, Education Directory*
+**Dave Mainville** *- Founder, Education Director*
 
 P.S. Remember, every day without purpose is a missed opportunity to live the life you deserve. Don’t let another day go by—click the link above to start your transformation now.
