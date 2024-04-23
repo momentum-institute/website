@@ -1,6 +1,7 @@
 ---
 title: "Stop Running on Empty: A Path to Meaningful Living"
 showToc: false
+draft: true
 ---
 
 In today's fast-paced world, it's all too easy to find yourself running on empty, your days a blur of obligations and commitments. You wake up to a packed schedule, rush through tasks, and collapse into bed, only to do it all over again tomorrow.

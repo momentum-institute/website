@@ -27,12 +27,12 @@ languages:
       series: series
     menu:
       main:
-        - name: Model
-          url: model/curriculum-overview
+        # - name: Model
+        #   url: model/curriculum-overview
+        #   weight: 1
+        - name: Program
+          url: program/coaching
           weight: 1
-        # - name: Program
-        #   url: program/12-week-momentum-coaching
-        #   weight: 2
         # - name: Archive
         #   url: archives
         #   weight: 5
@@ -73,14 +73,14 @@ params:
 
   profileMode:
     enabled: true # needs to be explicitly set
-    title: "Stop Running On Empty"
-    subtitle: "We help __Busy Dads__, __Motivated Husbands__, and __Ambitious Men__ reclaim 'me time', sustain motivation, and get more done in just 12-weeks without being spread thin, or compromising on values"
+    title: "Stop Drifting Through Life"
+    subtitle: "We help __Busy Dads__, __Motivated Husbands__, and __Ambitious Men__ Discover Purpose & Live with Meaning in Just 6 Weeks"
     imageUrl: "../assets/images/icon-logo.jpg"
     imageWidth: 120
     imageHeight: 120
     imageTitle: The Momentum Map
     buttons:
-      - name: Learn More
+      - name: Discover Your Purpose
         url: model/curriculum-overview
       # - name: Tags
       #   url: tags
