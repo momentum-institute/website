@@ -74,7 +74,7 @@ params:
   profileMode:
     enabled: true # needs to be explicitly set
     title: "Stop Drifting Through Life"
-    subtitle: "We help __Busy Dads__, __Motivated Husbands__, and __Ambitious Men__ Discover Purpose & Live with Meaning in Just 6 Weeks"
+    subtitle: "We help __Busy Dads__, __Motivated Husbands__, and __Ambitious Men__ Discover Purpose & Live with Meaning in Just 6 Weeks without endless hours of introspective soul-searching or vague self-help advice"
     imageUrl: "../assets/images/icon-logo.jpg"
     imageWidth: 120
     imageHeight: 120
