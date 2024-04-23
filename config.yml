@@ -81,7 +81,7 @@ params:
     imageTitle: The Momentum Map
     buttons:
       - name: Discover Your Purpose
-        url: model/curriculum-overview
+        url: program/coaching
       # - name: Tags
       #   url: tags
 
