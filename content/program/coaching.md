@@ -1,5 +1,5 @@
 ---
-title: Discover Your Purpose: Live with Meaning in Just 6 Weeks
+title: Discover Your Purpose - Live with Meaning in Just 6 Weeks
 showToc: false
 draft: false
 ---
