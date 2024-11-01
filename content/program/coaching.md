@@ -1,14 +1,12 @@
 ---
-title: Are You Living Your Best Life?
+title: Too busy?
 showToc: false
 draft: false
 ---
 
-Too busy?
-
 Too stressed?
 
-Too many things on the go?
+Too many things up in the air?
 
 Always running, never arriving.
 
@@ -76,10 +74,6 @@ Simple, actionable, and created for real results.
 
 Want to see what a schedule with clarity and focus looks like?
 
-Check out the **IGNITE Workshop**.
-
-Join the workshop, and let’s simplify things together.
-
 It’s time.
 
 Not everyone will “get it.”
@@ -88,9 +82,7 @@ This workshop is for men ready to *cut the noise and focus on what truly matters
 
 Want to keep saying you’re “too busy”?
 
-No problem.
-
-This isn’t for everyone.
+No problem.This isn’t for everyone.
 
 But if you’re serious about finding clarity, setting real goals, and getting your life back—this might just be for you.
 
@@ -116,16 +108,17 @@ Are you ready to *ignite* change?
 
 Don’t wait.
 
-Join us in the **IGNITE Workshop** and start using the **C4 Framework** to get more from your days.
+Join the **IGNITE Workshop** to get more from your days.
 
 *Ready to go?*
 
 *Let’s get you where you want to be.*
 
-[Join IGNITE](https://accelerate.thrivecart.com/6-week-momentum-sprint/)
+[(Click here to see how)](https://accelerate.thrivecart.com/6-week-momentum-sprint/)
 
 To a life well-lived,
 
 **Dave Mainville** *- Founder, Education Director*
 
-P.S. Remember, every day without meaning & conviction is a missed opportunity to live the life you deserve.
+P.S. Remember, every day without meaning & conviction is a missed opportunity to [life the life you deserve](https://accelerate.thrivecart.com/6-week-momentum-sprint/)
+.
