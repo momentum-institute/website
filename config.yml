@@ -80,7 +80,7 @@ params:
     imageHeight: 120
     imageTitle: The Momentum Map
     buttons:
-      - name: Discover Your Purpose
+      - name: Show me how
         url: program/coaching
       # - name: Tags
       #   url: tags
