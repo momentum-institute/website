@@ -5,13 +5,19 @@ showToc: false
 draft: false
 ---
 
-# **IGNITE Workshop: Break Through the Busyness, Live with Purpose**
+# Break Through the Busyness, Live with Purpose**
 
-Tired of grinding through your days, busy but not fulfilled?  
+Tired of grinding through your days, busy but not alive? Not fulfilled? 
 
-Welcome to the **IGNITE Workshop**, a hands on deep dive into our **C4 Framework**—a proven system designed to help ambitious men like you simplify life, focus on what matters most, and reclaim your energy without the stress, the guesswork, or the wasted time.  
+Welcome to the **IGNITE Workshop**, a hands on deep dive into our **C4 Framework**—a battle tested system designed to help ambitious men like you simplify life, focus on what matters most, and reclaim your energy without the stress or wasted time.  
 
-No fluff. No filler. No complex methods.  
+No fluff. 
+
+No filler. 
+
+No complex methods.
+
+
 Just a straightforward path to clarity, purpose, and results.  
 
 ---
