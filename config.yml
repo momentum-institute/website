@@ -33,9 +33,9 @@ languages:
         - name: Program
           url: program/coaching
           weight: 1
-        # - name: Archive
-        #   url: archives
-        #   weight: 5
+        - name: Newsletter
+          url: letters
+          weight: 5
         # - name: Search
         #   url: search/
         #   weight: 10
