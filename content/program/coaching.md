@@ -7,16 +7,15 @@ draft: false
 
 # **Break Through the Busyness, Live with Purpose**
 
-Tired of grinding through your days, busy but not alive? Not fulfilled? 
+Tired of grinding through your days, busy but not alive? Not fulfilled?
 
 Welcome to the **IGNITE Workshop**, a hands on deep dive into our **C4 Framework**—a battle tested system designed to help ambitious men like you simplify life, focus on what matters most, and reclaim your energy without the stress or wasted time.  
 
-No fluff. 
+No fluff.
 
-No filler. 
+No filler.
 
 No complex methods.
-
 
 Just a straightforward path to clarity, purpose, and results.  
 
@@ -31,6 +30,7 @@ It’s not that you’re disorganized.
 It’s that you’re stuck in the endless loop of “busy.”  
 
 You’re overwhelmed because:  
+
 - **Your priorities aren’t clear.**  
 - **Your focus is scattered.**  
 - **Your schedule runs you, not the other way around.**
@@ -44,6 +44,7 @@ We’re going to fix all three.
 When everything feels urgent, nothing feels important. That’s how burnout happens—pouring energy into tasks that don’t move the needle.  
 
 ### **Here’s how we’ll flip the script:**  
+
 1. **Identify Your Core Values and Goals:**  
    What do you stand for? What do you want to accomplish? We’ll strip away the noise and get to the heart of what drives you.  
 
@@ -66,6 +67,7 @@ Distraction is the enemy of progress.
 You don’t need more time—you need more focus.  
 
 ### **Here’s how we’ll get you locked in:**  
+
 1. **Design a Daily Routine Aligned with Your Goals:**  
    Every day will have a purpose. We’ll create a simple, powerful routine that keeps you on track without feeling rigid or overwhelming.  
 
@@ -90,6 +92,7 @@ It’s about not knowing where to start.
 The **C4 Framework** gives you the tools to simplify, organize, and dominate your day—with calm confidence.  
 
 ### **Here’s how we’ll eliminate overwhelm:**  
+
 1. **Prioritize with Precision:**  
    Learn how to instantly sort tasks by urgency and importance so you’re always focused on what matters most.  
 
@@ -112,6 +115,7 @@ This isn’t some “rah-rah” motivational seminar.
 It’s a step-by-step system that works in real life, for real men with real responsibilities.  
 
 ### **Here’s what you’ll get:**  
+
 - **Weekly Focus:** Each week, we’ll tackle one part of the C4 Framework, breaking it down into clear, actionable steps.  
 - **Real-World Application:** No theories. You’ll apply what you learn immediately, with support every step of the way.  
 - **Community & Coaching:** You’re not doing this alone. You’ll join a group of like-minded men and expert coaches all pushing for the same thing: results.  
@@ -127,6 +131,7 @@ All you need is a commitment to yourself—and about **2-3 hours a week**.
 - Flexible: Pay weekly or upfront.  
 
 **Think about it:**  
+
 - How much is your time worth?  
 - How much energy do you waste spinning your wheels?  
 - What’s the cost of another year stuck in the same cycle?  
@@ -164,7 +169,9 @@ Education Director, The Momentum Institute
 ---
 
 # **P.S.**  
+
 You’ve got two options:  
+
 1. Keep doing what you’ve been doing—hoping things will change.  
 2. Decide to change. Right now.  
 
