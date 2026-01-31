@@ -61,15 +61,15 @@ params:
   ShowReadingTime: true
   # disableSpecial1stPost: true
   displayFullLangName: true
-  ShowPostNavLinks: false
-  ShowBreadCrumbs: true
-  ShowCodeCopyButtons: true
-  ShowRssButtonInSectionTermList: true
+  ShowPostNavLinks: true
+  ShowBreadCrumbs: false
+  ShowCodeCopyButtons: false
+  ShowRssButtonInSectionTermList: false
   ShowAllPagesInArchive: true
   ShowPageNums: false
-  ShowToc: true
+  ShowToc: false
   # comments: false
-  images: ["images/icon-logo.jpg"]
+  images: []
 
   profileMode:
     enabled: true # needs to be explicitly set
