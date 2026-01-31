@@ -1,8 +1,10 @@
 ---
-title: Break the Lies That Stall Your Progress
-
-showToc: false
+title: "Break the Lies That Stall Your Progress"
+date: 2026-01-31
 draft: false
+summary: "You are not stuck because you lack ability. You are stuck because an old story is still running your decisions."
+tags: ["letters"]
+slug: "break-the-lies-that-stall-your-progress"
 ---
 
 For a long time, I thought hesitation was a sign of intelligence. The pause before acting felt like maturity—evidence that I was careful, reflective, unwilling to rush into mistakes. I told myself I was gathering information, waiting for clarity, refining my plan. From the outside, it looked like patience. From the inside, it felt like restraint. Only later did it become obvious that what I called patience was something else entirely: avoidance dressed up as virtue.
