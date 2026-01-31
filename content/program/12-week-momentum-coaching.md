@@ -4,9 +4,9 @@ showToc: false
 draft: true
 ---
 
-Ever felt stuck, wondering if this is all life has to offer? What if instead of wake up, breakfast, kids, commute, work, dinner, repete - the bored aimlessness is replaced with purpose, passion, and fulfillment? 
+Ever felt stuck, wondering if this is all life has to offer? What if instead of wake up, breakfast, kids, commute, work, dinner, repete - the bored aimlessness is replaced with purpose, passion, and fulfillment?
 
-We help corporate professionals achieve a healthy work-life balance in just 12 weeks without sleepless nights, missed commitments, or days full of accomplishments but empty of achievement. 
+We help corporate professionals achieve a healthy work-life balance in just 12 weeks without sleepless nights, missed commitments, or days full of accomplishments but empty of achievement.
 
 __Week 1__ sets the stage for this life-changing adventure. You'll learn the philosophy of our program, rooted in conscientious altruism and inspired by wisdom of many great minds, to lay a solid foundation for the transformative journey ahead. This isn't just an introduction; it's the first step towards a profound understanding of your purpose in life, offering you a clear direction from the get-go.
 

@@ -12,7 +12,7 @@ But in the quiet moments, a question lingers: Isn't there more to life than this
 
 ## Reclaim 'Me Time'
 
-This program is your guide to breaking free from the cycle of busyness and rediscovering the joy of 'me time.' 
+This program is your guide to breaking free from the cycle of busyness and rediscovering the joy of 'me time.'
 
 Through carefully designed lectures and strategies, you'll learn how to manage your time effectively, prioritize your well-being, and create space in your life for moments that bring you true fulfillment.
 
@@ -44,9 +44,9 @@ Because life is too short to spend it running on empty. It's time to stop being 
 
 ## Limited Enrollment for Enhanced Experience
 
-To ensure the best possible experience and personalized attention, spots in the program are limited. We keep our groups small to foster a sense of community and support as you embark on this transformative journey. 
+To ensure the best possible experience and personalized attention, spots in the program are limited. We keep our groups small to foster a sense of community and support as you embark on this transformative journey.
 
-We’re so confident in the value and effectiveness of our program that we offer a 100% no-questions-asked money-back guarantee. After completing all the exercises if you don’t feel more connected with a deeper and more fulfilling life, allowing you to reclaim your calendar and Stop Running on Empty, we will refund your investment in full. This is our commitment to your success and satisfaction. 
+We’re so confident in the value and effectiveness of our program that we offer a 100% no-questions-asked money-back guarantee. After completing all the exercises if you don’t feel more connected with a deeper and more fulfilling life, allowing you to reclaim your calendar and Stop Running on Empty, we will refund your investment in full. This is our commitment to your success and satisfaction.
 
 If you're ready to Stop Running on Empty and start living with more meaningful moments, don't wait. [Secure your spot on the waiting list for the next available group and take the first step towards a life that's truly yours.](https://accelerate.thrivecart.com/12-week-momentum-sprint/)
 
