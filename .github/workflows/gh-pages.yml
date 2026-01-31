@@ -46,8 +46,24 @@ jobs:
       - name: Setup Pages
         id: pages
         uses: actions/configure-pages@v4
-      - name: Install Node.js dependencies
-        run: "[[ -f package-lock.json || -f npm-shrinkwrap.json ]] && npm ci || true"
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '18'
+      - name: Install Node.js dependencies (or markdownlint)
+        run: |
+          if [ -f package-lock.json ] || [ -f npm-shrinkwrap.json ]; then
+            npm ci
+          elif [ -f package.json ]; then
+            npm install
+          else
+            echo "No package.json found; installing markdownlint-cli2 globally"
+            npm install -g markdownlint-cli2
+          fi
+      - name: Run markdownlint
+        run: |
+          echo "Running markdownlint-cli2..."
+          npx markdownlint-cli2 .
       - name: Build with Hugo
         env:
           # For maximum backward compatibility with Hugo modules
