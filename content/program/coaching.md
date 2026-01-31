@@ -5,7 +5,7 @@ showToc: false
 draft: false
 ---
 
-# **Break Through the Busyness, Live with Purpose**
+## Break Through the Busyness, Live with Purpose
 
 Tired of grinding through your days, busy but not alive? Not fulfilled?
 
@@ -39,7 +39,7 @@ We’re going to fix all three.
 
 ---
 
-# **Phase 1: Cut Through the Noise—Get Clear on What Matters**
+## Phase 1: Cut Through the Noise—Get Clear on What Matters
 
 When everything feels urgent, nothing feels important. That’s how burnout happens—pouring energy into tasks that don’t move the needle.  
 
@@ -61,7 +61,7 @@ No more guessing. No more wasted days.
 
 ---
 
-# **Phase 2: Build Systems That Keep You Laser-Focused**
+## Phase 2: Build Systems That Keep You Laser-Focused
 
 Distraction is the enemy of progress.  
 You don’t need more time—you need more focus.  
@@ -84,7 +84,7 @@ Just clear progress, every single day.
 
 ---
 
-# **Phase 3: Crush Overwhelm—For Good**
+## Phase 3: Crush Overwhelm—For Good
 
 Overwhelm isn’t about having too much to do.  
 It’s about not knowing where to start.  
@@ -109,7 +109,7 @@ Stress won’t manage you. You’ll manage it.
 
 ---
 
-# **How the IGNITE Workshop Works**
+## How the IGNITE Workshop Works
 
 This isn’t some “rah-rah” motivational seminar.  
 It’s a step-by-step system that works in real life, for real men with real responsibilities.  
@@ -124,7 +124,7 @@ All you need is a commitment to yourself—and about **2-3 hours a week**.
 
 ---
 
-# **What’s the Investment?**
+## What’s the Investment?
 
 - **$100 per week**  
 - **26 weeks total = $2,600 USD**  
@@ -138,7 +138,7 @@ All you need is a commitment to yourself—and about **2-3 hours a week**.
 
 ---
 
-# **Our Guarantee: No Risk, All Reward**
+## Our Guarantee: No Risk, All Reward
 
 We get it—investing in yourself can feel risky.  
 
@@ -151,7 +151,7 @@ No hassle. No hard feelings. You keep all the materials.
 
 ---
 
-# **Ready to Make a Change?**
+## Ready to Make a Change?
 
 If you’re done with the overwhelm…  
 If you’re ready to live with clarity, purpose, and focus…  
@@ -168,7 +168,7 @@ Education Director, The Momentum Institute
 
 ---
 
-# **P.S.**  
+## P.S.
 
 You’ve got two options:  
 
