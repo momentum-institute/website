@@ -1,4 +1,8 @@
-## The Metallurgy of the Modern Man
+---
+title: The Metallurgy of the Modern Man
+showToc: true
+draft: true
+---
 
 The modern man lives in a state of perpetual, low-grade exhaustion. We are surrounded by "optimization" culture—apps that track our sleep, podcasts that dictate our morning routines, and a relentless stream of content telling us to "hustle harder." Yet, for all this noise, the average man feels less like a sharpened blade and more like a piece of scrap metal: weathered by the elements, rusting from disuse, and lacking a clear edge. We are busy, but we are not moving. We are under pressure, but we are not being transformed by it. We are simply being crushed.
 
