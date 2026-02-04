@@ -1,7 +1,8 @@
 baseURL: "https://momentum.institute/"
 title: Momentum Institute
-paginate: 20
-theme: [hugo-PaperMod]
+pagination:
+  pagerSize: 20
+theme: hugo-PaperMod
 
 enableInlineShortcodes: true
 enableRobotsTXT: true
@@ -172,7 +173,5 @@ markup:
 #     privacyEnhanced: true
 
 services:
-  instagram:
-    disableInlineCSS: true
-  twitter:
+  x:
     disableInlineCSS: true
