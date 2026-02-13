@@ -1,10 +1,10 @@
 ---
-title: "The Tools Men Choose Are the Truth They Won’t Say"
+title: "The Tools Men Choose"
 date: 2026-01-31
 draft: false
 summary: "Why men reveal their identity through tools—and what happens when they finally speak their preferences without apology."
 tags: []
-slug: "tools-men-choose-identity-expression"
+slug: "tools-men-choose"
 
 cover:
   image: "cover.png"
