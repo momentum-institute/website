@@ -3,7 +3,7 @@ title: "Break the Lies That Stall Your Progress"
 date: 2026-01-30
 draft: false
 summary: "You are not stuck because you lack ability. You are stuck because an old story is still running your decisions."
-tags: ["52WB"]
+tags: ["52W"]
 slug: "break-the-lies-that-stall-your-progress"
 ---
 
