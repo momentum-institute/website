@@ -5,6 +5,10 @@ draft: false
 summary: "Why men reveal their identity through tools—and what happens when they finally speak their preferences without apology."
 tags: []
 slug: "tools-men-choose-identity-expression"
+
+cover:
+  image: "cover.png"
+  relative: true
 ---
 
 There’s a moment I’ve noticed over and over again when men talk.

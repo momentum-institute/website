@@ -2,9 +2,12 @@
 title: "The Story Quietly Running Your Life"
 date: 2026-02-06
 draft: false
-description: "A one-page narrative exercise that reshapes daily decisions, behavior under pressure, and how others respond—within 7 days—by rewriting the internal script you live by."
 slug: "the-story-quietly-running-your-life"
 tags: ["mindset", "identity", "decision-making", "habits", "men", "self-leadership","52W"]
+
+cover:
+  image: "cover.png"
+  relative: true
 ---
 
 _Change the script you live by, and your actions start changing on their own._
