@@ -1,6 +1,6 @@
 ---
 title: "You Can't Fix What You Haven't Named"
-date: 2026-01-30T00:00:00-05:00
+date: 2026-01-02
 draft: false
 summary: "Lasting change starts with a baseline. Until you name the real structure of your life, effort stays scattered and progress stays unstable."
 slug: "you-cant-fix-what-you-havent-named"

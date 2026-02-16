@@ -3,7 +3,7 @@ title: "Clarity Precedes Strength"
 date: 2026-02-13
 draft: false
 summary: "Before you build discipline, you must decide who you are becoming. Strength without definition scatters; clarity gathers force."
-tags: ["52W"]
+tags: []
 slug: "clarity-precedes-strength"
 
 cover:
