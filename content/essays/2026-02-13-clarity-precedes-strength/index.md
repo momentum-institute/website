@@ -11,11 +11,11 @@ cover:
   relative: true
 ---
 
-A man stands at the edge of his own week the way a blacksmith stands before an anvil: surrounded by tools, raw material within reach, heat available on command. He has read the books, bought the journal, set the alarm earlier than necessary. He has circled habits in red ink and highlighted virtues in yellow. Yet by Thursday, something loosens. By Sunday, something slips. The heat was real. The intention was sincere. But the steel remains unshaped.
+A man stands at the edge of his own week the way a blacksmith stands before an anvil- surrounded by tools, raw material within reach, heat available on command. He has read the books, bought the journal, set the alarm earlier than necessary. He has circled habits in red ink and highlighted virtues in yellow. Yet by Thursday, something loosens. By Sunday, something slips. The heat was real. The intention was sincere. But the steel remains unshaped.
 
-We like to believe that effort alone changes a life. We admire intensity. We celebrate grind. But the truth is quieter and less flattering: effort without definition diffuses. Energy without identity disperses. Before a man grows stronger, he must decide what he is strengthening into.
+We like to believe that effort alone changes a life. We admire intensity. We celebrate grind. But effort without definition diffuses. Energy without identity disperses. Before a man grows stronger, he must decide what he is strengthening into.
 
-That is the central claim of this lesson: clarity precedes strength. Not clarity about tasks, but clarity about identity. Until a man names who he is becoming, his discipline will remain moody, his decisions reactive, and his progress inconsistent. Definition is not a motivational accessory. It is the architecture that allows force to gather and hold.
+Clarity precedes strength. Not clarity about tasks, but clarity about identity. Until a man names who he is becoming, his discipline will remain moody, his decisions reactive, and his progress inconsistent. Definition is not a motivational accessory. It is the architecture that allows force to gather and hold.
 
 ## When Energy Has Nowhere to Land
 
@@ -31,7 +31,7 @@ Clarity changes the question. Once an identity is forged, the internal dialogue 
 
 The lesson calls this consolidated identity the Blade. The metaphor matters. A blade is not an entire arsenal. It is not every aspect of a person. It is one forged, usable dimension of identity—sharp enough to guide action.
 
-The Blade is not a biography. It is not a personality inventory. It is a standard. It answers a singular, disciplined question: Who are you choosing to be?
+The Blade is not a biography. It is not a personality inventory. It is a standard. It answers **_Who are you choosing to be_**?
 
 When this component is weak, three fractures appear.
 
@@ -65,7 +65,7 @@ Once named, the Blade becomes harder to betray. Not impossible—but harder. Bec
 
 ## The Temptation of Endless Addition
 
-There is, however, a competing belief that feels persuasive: that growth requires constant addition. New systems. New tactics. New layers of optimization. In this view, the solution to inconsistency is more structure, more accountability, more external reinforcement.
+There can be, however, a competing belief that growth requires constant addition. New systems. New tactics. New layers of optimization. In this view, the solution to inconsistency is more structure, more accountability, more external reinforcement.
 
 But this belief mistakes complexity for depth. A man can surround himself with tools and still lack direction. He can adopt sophisticated routines and remain undefined. External systems cannot compensate for internal ambiguity.
 

@@ -11,7 +11,7 @@ cover:
   relative: true
 ---
 
-For a long time, I thought hesitation was a sign of intelligence. The pause before acting felt like maturity—evidence that I was careful, reflective, unwilling to rush into mistakes. I told myself I was gathering information, waiting for clarity, refining my plan. From the outside, it looked like patience. From the inside, it felt like restraint. Only later did it become obvious that what I called patience was something else entirely: avoidance dressed up as virtue.
+For a long time, I thought hesitation was a sign of intelligence. The pause before acting felt like maturity—evidence that I was careful, reflective, unwilling to rush into mistakes. I told myself I was gathering information, waiting for clarity, refining my plan. From the outside, it looked like patience. From the inside, it felt like restraint. Only later did it become obvious that what I called patience was _avoidance dressed up as virtue_.
 
 Most stalled lives do not look lazy. They look busy. They are filled with notes, revisions, research, and preparation. The calendar is full, the mind is active, and yet nothing quite tips over into irreversible action. Something keeps pulling the hand back from the door just before it opens.
 
@@ -21,7 +21,7 @@ That something is not a lack of ability. It is a story.
 
 The central reason people remain stuck is not that they are incapable, unmotivated, or undisciplined. It is that an old belief—formed under pressure, failure, or fear—continues to run their decisions long after it has outlived its usefulness. Progress does not stall because you cannot move forward. It stalls because part of you believes that moving forward is dangerous.
 
-These beliefs rarely announce themselves. They arrive as reasonable cautions: Don’t rush. Think this through. You don’t want to mess this up again. They feel like wisdom, but they function like brakes. Over time, they become default responses, firing automatically whenever action would expose you to risk, judgment, or uncertainty.
+These beliefs rarely announce themselves. They arrive as reasonable cautions- Don’t rush. Think this through. You don’t want to mess this up again. They feel like wisdom, but they function like brakes. Over time, they become default responses, firing automatically whenever action would expose you to risk, judgment, or uncertainty.
 
 The result is a strange contradiction. You want change, but you keep choosing comfort. You crave momentum, but you keep circling the same ground. You tell yourself you are waiting for the right moment, while quietly reinforcing the belief that now is never safe enough.
 
@@ -39,13 +39,13 @@ The common response to self-doubt is motivation. Affirmations, hype, and encoura
 
 Brutal honesty is not self-criticism. It is maintenance. Like removing impurities from metal, the work is not about adding strength but eliminating what weakens the structure from within. A blade fails not because steel lacks hardness, but because hidden flaws spread under stress. Unchallenged beliefs behave the same way. Ignore them, and they corrode every attempt at progress.
 
-The only effective method is to treat the belief as a claim, not a command. Write it down exactly as it appears. No softening. No interpretation. Then examine it the way you would a dubious witness: Where did this come from? When did it start? What evidence actually supports it?
+The only effective method is to treat the belief as a claim, not a command. Write it down exactly as it appears. No softening. No interpretation. Then examine it with a skeptical lens- Where did this come from? When did it start? What evidence actually supports it?
 
 When you do this honestly, something shifts. The belief loses its authority. It becomes one data point among many, not the final verdict on your capacity.
 
 ## The Comfort Argument—and Why It Fails
 
-There is a tempting counterargument: maybe caution is wisdom. Maybe hesitation prevents disaster. After all, not every risk pays off, and not every action leads to success. This is true, as far as it goes.
+Maybe caution is wisdom. Maybe hesitation prevents disaster. After all, not every risk pays off, and not every action leads to success. This is true, as far as it goes.
 
 But the problem is not caution. It is asymmetry. The stalled person is not carefully evaluating risks; they are consistently choosing the option that preserves comfort and identity. They avoid situations where failure would be visible. They replay old mistakes as warnings rather than lessons. They sacrifice momentum to stay familiar.
 
@@ -55,7 +55,7 @@ What masquerades as prudence is often fear of revision—fear that acting will f
 
 Progress resumes not when you feel ready, but when you interrupt the loop. You recognize the thought that stops you. You examine it. You list evidence that it is not fully true. You edit it into a statement you can stand on—honest, grounded, usable. Then you act once, deliberately, to prove it.
 
-This action does not need to be dramatic. It needs to be decisive. Action is what locks the lesson in place. When the old belief resurfaces—as it will—you do not debate it. You replace it. Over time, repetition does what motivation cannot: it builds proof.
+This action does not need to be dramatic. It needs to be decisive. Action is what locks the lesson in place. When the old belief resurfaces—as it will—you do not debate it. You replace it. Over time, repetition does what motivation cannot; it builds proof.
 
 ## What Changes When the Story Changes
 

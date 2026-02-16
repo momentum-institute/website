@@ -109,7 +109,7 @@ Alignment is not about perfection. It is about correction. When actions drift, t
 
 ![Standing for Something](./03.png)
 
-The phrase is simple but precise: if a man does not stand for something, he will fall for anything.
+*If a man does not stand for something, he will fall for anything.*
 
 Standing requires definition. Definition requires choice. Choice requires cost.
 
@@ -137,7 +137,7 @@ The small compromises were not harmless. They were signals. His frustration was 
 
 The solution was never more motivation. It was definition.
 
-The thesis is simple and structural: a man’s strength is determined not by intensity or ambition, but by the clarity and enforcement of his core values. Without defined standards, pressure governs him. With them, he governs himself.
+A man’s strength is determined not by intensity or ambition, but by the clarity and enforcement of his core values. Without defined standards, pressure governs him. With them, he governs himself.
 
 Everything else follows from that foundation.
 

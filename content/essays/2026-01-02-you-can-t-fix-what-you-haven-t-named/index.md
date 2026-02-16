@@ -29,7 +29,7 @@ By Friday, the plan was gone.
 
 Nothing dramatic had happened. No crisis. No collapse. Just a quiet return to normal. He told himself he needed more willpower. Or a better system. Or fewer distractions.
 
-What he never did was stop to ask a simpler question: What, exactly, is my life right now?
+What he never did was stop to ask *What, exactly, is my life right now?*
 
 ## The Problem Beneath the Productivity Obsession
 
@@ -37,7 +37,7 @@ We tend to treat personal change as a matter of addition. Add a habit. Add a goa
 
 But the deeper problem is usually structural. Many people attempt transformation without first identifying their starting point. They build on assumptions about themselves that have never been tested against reality.
 
-The thesis is simple: sustainable change depends less on motivation and more on accurately defining one's current position. Without a clear baseline, effort becomes scattered, goals become mismatched, and frustration becomes chronic.
+Sustainable change depends less on motivation and more on accurately defining one's current position. Without a clear baseline, effort becomes scattered, goals become mismatched, and frustration becomes chronic.
 
 This is not just a personal productivity issue. It reflects a broader cultural pattern. We are trained to optimize before we understand. To improve before we inventory. To accelerate before we orient.
 
@@ -59,11 +59,11 @@ But the absence of clarity has a cost.
 
 When someone tries to adopt a demanding routine without accounting for existing responsibilities, the routine collides with reality. When a person sets ambitious goals without acknowledging weak habits, the goals feel heavier than expected. When strengths are ignored, effort is applied inefficiently.
 
-This mismatch between self perception and lived structure produces a familiar experience: constant motion with minimal progress.
+This mismatch between self perception and lived structure produces a familiar experience of constant motion with minimal progress.
 
 People describe it as burnout. Or lack of discipline. Or bad luck. Often it is simply misalignment.
 
-A baseline corrects this. It answers a narrow but powerful question: What is actually here?
+A baseline corrects this. It answers a narrow but powerful question *What is actually here?*
 
 Roles. Daily habits. Strengths that already work. Weak spots that collapse under pressure. Even emotional states. These are not abstract reflections. They are structural facts.
 
@@ -75,7 +75,7 @@ Accuracy becomes more valuable than intensity.
 
 There is also a cultural myth at play. We admire decisive action. We praise bold commitments. We celebrate early risers and relentless grinders. The person who pauses to assess can appear hesitant, even weak.
 
-The counterargument is familiar: too much reflection leads to paralysis. Overthinking kills momentum. Better to act and adjust along the way.
+Too much reflection leads to paralysis. Overthinking kills momentum. Better to act and adjust along the way.
 
 This view contains a partial truth. Endless analysis can become avoidance. Some people hide in planning to escape execution.
 
@@ -105,7 +105,7 @@ The broader implication is significant. In a culture obsessed with acceleration,
 
 Sustainable growth does not begin with inspiration. It begins with inventory.
 
-The thesis bears repeating: lasting change depends less on adding new effort and more on clearly defining the present structure of one's life. Without that foundation, progress remains unstable. With it, even modest effort gains power.
+Lasting change depends less on adding new effort and more on clearly defining the present structure of one's life. Without that foundation, progress remains unstable. With it, even modest effort gains power.
 
 The man at the kitchen table did not need another video. He needed a blank page and an honest list.
 
