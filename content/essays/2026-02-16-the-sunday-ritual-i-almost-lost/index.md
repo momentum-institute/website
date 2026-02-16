@@ -122,7 +122,7 @@ The solution is not shame. It is restoration.
 
 Return to the line. Reinstate the ritual. If Sunday is tight, move it earlier. Protect the principle. Add ceremony if you must. Remove friction. Make the practice visible and deliberate.
 
-The value of a weekly calibration is not in the pages you fill. It is in the identity you reinforce. You're established as **a man who sets direction before the world sets it for him**.
+The value of a weekly calibration is not in the pages you fill. It is in the identity you reinforce, anchored as **a man who sets direction before the world sets it for him**.
 
 I have lived both versions—the reactive week and the directed one. The difference is not talent or intelligence or even workload. It is a single hour held with integrity.
 
