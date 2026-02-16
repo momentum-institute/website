@@ -26,7 +26,7 @@ What’s actually happening is simpler—and harder—than a lack of willpower. 
 
 Most men carry an internal script that explains who they are and what is reasonable to expect from life. It often forms early, shaped by family roles, early failures, or long stretches of being overlooked. _I’m the one who plays it safe._ _I’m dependable, but not the guy who takes the lead._ _I had bad breaks._ The story feels factual because it accounts for the past. But stories are not neutral descriptions. They are operating systems.
 
-This is the quiet truth beneath stalled ambition: your behavior is loyal to the story you believe about yourself.
+Your behavior is loyal to the story you believe about yourself.
 
 ---
 
@@ -65,7 +65,7 @@ This is how momentum actually begins—not with force, but with coherence.
 
 ## The One-Page Declaration
 
-The task is deceptively simple: write a one-page origin story. One page only. No polishing. No performance.
+Write a one-page origin story. One page only. No polishing. No performance.
 
 First, acknowledge the old script. Write it plainly, even if it’s uncomfortable. The excuses, the labels, the inherited expectations you’ve been living under. Be honest enough that it stings.
 
