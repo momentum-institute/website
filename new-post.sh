@@ -9,7 +9,7 @@ TITLE="${1:-POST TITLE GOES HERE}"
 SLUG="$(echo "$TITLE" | tr '[:upper:]' '[:lower:]' | sed -E 's/[^a-z0-9]+/-/g' | sed -E 's/^-|-$//g')"
 SCRIPT_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
 DATE="$(date +%F)"
-DIR="$SCRIPT_DIR/$DATE-$SLUG"
+DIR="$SCRIPT_DIR/content/essays/$DATE-$SLUG"
 
 mkdir -p "$DIR"
 
