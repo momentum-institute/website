@@ -4,8 +4,10 @@ slug: "the-quiet-script-behind-ordinary-days"
 title: "The Quiet Script Behind Ordinary Days"
 summary: "Men are shaped less by stated goals than by inherited self-stories; when the script is examined and rewritten, ordinary decisions begin to change trajectory."
 
+series:
+  - SteadyBurn
+
 tags:
-  - "52SB"
   - "identity"
   - "personal narrative"
   - "mindset"

@@ -4,8 +4,11 @@ date: 2026-01-02
 draft: false
 summary: "Lasting change starts with a baseline. Until you name the real structure of your life, effort stays scattered and progress stays unstable."
 slug: "you-cant-fix-what-you-havent-named"
+
+series:
+  - SteadyBurn
+
 tags:
-  - "52SB"
   - "starting point"
   - "self-assessment"
   - "structure"
@@ -18,7 +21,6 @@ tags:
 cover:
   image: "cover.png"
   relative: true
-
 ---
 
 He sat at the kitchen table long after everyone else had gone to bed, laptop open, a productivity video playing at half volume. The speaker on the screen promised clarity, discipline, a new morning routine that would change everything. He nodded along. It all made sense.
@@ -29,7 +31,7 @@ By Friday, the plan was gone.
 
 Nothing dramatic had happened. No crisis. No collapse. Just a quiet return to normal. He told himself he needed more willpower. Or a better system. Or fewer distractions.
 
-What he never did was stop to ask *What, exactly, is my life right now?*
+What he never did was stop to ask _What, exactly, is my life right now?_
 
 ## The Problem Beneath the Productivity Obsession
 
@@ -63,7 +65,7 @@ This mismatch between self perception and lived structure produces a familiar ex
 
 People describe it as burnout. Or lack of discipline. Or bad luck. Often it is simply misalignment.
 
-A baseline corrects this. It answers a narrow but powerful question *What is actually here?*
+A baseline corrects this. It answers a narrow but powerful question _What is actually here?_
 
 Roles. Daily habits. Strengths that already work. Weak spots that collapse under pressure. Even emotional states. These are not abstract reflections. They are structural facts.
 

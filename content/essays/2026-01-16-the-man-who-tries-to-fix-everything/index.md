@@ -4,6 +4,9 @@ slug: "the-man-who-tries-to-fix-everything"
 title: "The Man Who Tries to Fix Everything"
 summary: "Most people stall by trying to fix every weakness; real progress comes from identifying core strengths, sharpening them, and deploying them where they create leverage."
 
+series:
+  - SteadyBurn
+
 tags:
   - "strengths"
   - "leverage"
@@ -12,7 +15,6 @@ tags:
   - "focus"
   - "performance"
   - "personal development"
-  - "52SB"
 
 cover:
   image: "cover.png"

@@ -4,8 +4,10 @@ slug: "the-sentence-before-the-step"
 title: "The Sentence Before the Step"
 summary: "Progress stalls less from lack of skill than from the hidden sentence about identity that shapes risk, effort, and follow-through before action begins."
 
+series:
+  - SteadyBurn
+
 tags:
-  - "52SB"
   - "limiting beliefs"
   - "identity"
   - "self-efficacy"

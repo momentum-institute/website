@@ -4,8 +4,10 @@ slug: "the-strength-to-be-a-beginner"
 title: "The Strength to Be a Beginner"
 summary: "This essay will challenge you to set aside pride, choose a meaningful domain, and return to the fundamentals through structured, repeatable practice. Mastery starts when you are willing to be a student again."
 
+series:
+  - SteadyBurn
+
 tags:
-  - 52SB
   - mastery
   - humility
   - discipline

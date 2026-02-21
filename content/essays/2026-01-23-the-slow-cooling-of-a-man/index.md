@@ -4,8 +4,10 @@ slug: "the-slow-cooling-of-a-man"
 title: "The Slow Cooling of a Man"
 summary: "Men often mistake their stagnation for a discipline problem, but the deeper issue is lost internal heat; passion is the fuel that makes structure sustainable and effort alive."
 
+series:
+  - SteadyBurn
+
 tags:
-  - "52SB"
   - "passion"
   - "intrinsic motivation"
   - "discipline"
@@ -83,7 +85,7 @@ The cooling described at the beginning is not inevitable. It is gradual and ofte
 
 Men stall not because they lack discipline, but because they have lost contact with what energizes them. Passion is the internal heat that makes effort sustainable and direction meaningful. When it is neglected, life becomes a sequence of obligations. When it is restored, those same obligations are carried with greater force.
 
-This reframes how we think about progress. Instead of asking only what goals to set or what habits to install, the quwstion becomes *what genuinely engages me? Where do I lose track of time? What topic, craft, or challenge makes me lean forward rather than check out?*
+This reframes how we think about progress. Instead of asking only what goals to set or what habits to install, the quwstion becomes _what genuinely engages me? Where do I lose track of time? What topic, craft, or challenge makes me lean forward rather than check out?_
 
 The answers to those questions are not trivial. They are diagnostic.
 

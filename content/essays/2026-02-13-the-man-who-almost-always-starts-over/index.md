@@ -4,8 +4,10 @@ slug: "the-man-who-almost-always-starts-over"
 title: "The Man Who Almost Always Starts Over"
 summary: "Starting over repeatedly is usually not a motivation problem but an identity problem; when a man defines who he is, discipline stops being negotiable and becomes consistent."
 
+series:
+  - SteadyBurn
+
 tags:
-  - "52SB"
   - "identity"
   - "discipline"
   - "consistency"

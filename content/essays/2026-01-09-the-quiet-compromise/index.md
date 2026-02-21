@@ -4,6 +4,9 @@ slug: "the-quiet-compromise"
 title: "The Quiet Compromise"
 summary: "The real threat to growth is not low motivation but repeated compromises against undefined values; lasting strength comes from naming and enforcing clear standards."
 
+series:
+  - SteadyBurn
+
 tags:
   - "values"
   - "alignment"
@@ -12,7 +15,6 @@ tags:
   - "discipline"
   - "standards"
   - "personal development"
-  - "52SB"
 
 cover:
   image: "cover.png"
@@ -109,7 +111,7 @@ Alignment is not about perfection. It is about correction. When actions drift, t
 
 ![Standing for Something](./03.png)
 
-*If a man does not stand for something, he will fall for anything.*
+_If a man does not stand for something, he will fall for anything._
 
 Standing requires definition. Definition requires choice. Choice requires cost.
 
