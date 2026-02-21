@@ -1,7 +1,7 @@
 ---
 title: The Metallurgy of the Modern Man
 showToc: true
-draft: false
+draft: true
 slug: "steady-burn"
 
 cover:

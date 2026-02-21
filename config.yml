@@ -28,15 +28,9 @@ languages:
       series: series
     menu:
       main:
-        # - name: Model
-        #   url: model/curriculum-overview
-        #   weight: 1
         - name: IGNITION
           url: program/ignition
           weight: 1
-        - name: Steady Burn
-          url: program/steady-burn
-          weight: 2
         - name: Essays
           url: essays
           weight: 5
@@ -59,6 +53,8 @@ params:
   author: David Mainville
   # author: ["Me", "You"] # multiple authors
 
+  hideAuthor: true
+
   defaultTheme: light
   disableThemeToggle: true
   ShowShareButtons: true
@@ -77,14 +73,14 @@ params:
 
   profileMode:
     enabled: true # needs to be explicitly set
-    title: "Learn to convert pressure into structured action"
-    subtitle: "So you can focus on what actually matters, eliminate energy leaks, and forge a clear identity, even if you feel scattered, exhausted, or stuck, so you can live with strength, direction, and intent."
+    title: "From Pressure to Consistent Action"
+    subtitle: "Learn to focus on what actually matters, eliminate energy leaks, and forge a clear identity, even if you feel scattered, exhausted, or stuck, so you can live with confidence, direction, and integrity."
     imageUrl: "../assets/images/icon-logo.jpg"
     imageWidth: 120
     imageHeight: 120
     imageTitle: The Momentum Map
     buttons:
-      - name: Show me how
+      - name: Show Me How
         url: program/ignition
       # - name: Tags
       #   url: tags
