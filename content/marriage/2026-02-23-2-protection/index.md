@@ -2,11 +2,9 @@
 date: 2026-02-23 02:00:00
 slug: "protection"
 title: "Protection"
-summary: "SUMMARY GOES HERE"
+summary: "A castle does not fall because it is attacked once. It falls because defenses are treated as optional."
 
 tags:
-  - tag1
-  - tag2
 
 cover:
   image: "cover.png"
@@ -104,3 +102,23 @@ If you are a husband who feels resentful, disconnected, or uncertain, the questi
 A steward does not romanticize the structure, and he does not abandon it when it strains. He stands watch. He repairs what he has damaged. He closes the gate to what corrodes. He keeps the covenant intact because he understands the stakes.
 
 A man does not build a sanctuary by demanding respect. He builds it by becoming safe, and by refusing to let anything, outside or inside, turn his home into a place of threat.
+
+## Continue to Kindness
+
+Protection isn’t dominance.
+
+It isn’t control.
+
+It isn’t posturing.
+
+It is strength under discipline.
+
+And that discipline must show up in the smallest moments — especially when you’re frustrated, triggered, or tired.
+
+Because a man who protects but cannot control his tone is still unsafe.
+
+Next, we forge the third pillar: [Kindness — disciplined gentleness when tension rises](../2026-02-23-3-kindness/index.md).
+
+Strength without kindness hardens into fear.
+
+Let’s make sure yours doesn’t.

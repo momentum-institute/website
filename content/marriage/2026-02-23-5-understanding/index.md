@@ -2,11 +2,9 @@
 date: 2026-02-23 05:00:00
 slug: "understanding"
 title: "Understanding"
-summary: "SUMMARY GOES HERE"
+summary: "Most marital arguments collapse not because of what was said, but because neither person stopped long enough to measure what was actually happening."
 
 tags:
-  - tag1
-  - tag2
 
 cover:
   image: "cover.png"
@@ -94,3 +92,19 @@ He corrects only after he understands.
 He protects the bond more than his pride.
 
 The structure holds because someone chose to measure before building.
+
+## Continue to Acceptance
+
+Understanding slows you down.
+
+It teaches you to hear what’s underneath the words.
+
+But if you only understand and never accept, you create a relationship that feels like constant evaluation.
+
+No woman thrives under a microscope.
+
+Next, we forge [Acceptance — allowing imperfection while still calling both of you higher](../2026-02-23-6-acceptance/index.md).
+
+Because love that demands flawlessness breeds fear.
+
+And fear kills connection.

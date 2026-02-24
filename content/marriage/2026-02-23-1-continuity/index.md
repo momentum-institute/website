@@ -3,12 +3,10 @@ date: 2026-02-23 01:00:00
 slug: "continuity"
 title: "Continuity"
 series: marriage
-summary: "SUMMARY GOES HERE"
+summary: "A man does not abandon his marriage in a single dramatic moment. He begins by dimming."
 hide: true
 
 tags:
-  - tag1
-  - tag2
 
 cover:
   image: "cover.png"
@@ -136,3 +134,21 @@ You are not merely trying to feel better about your marriage. You are deciding w
 The sea will change. Some nights will be calm. Others will test your patience and resolve. Feelings will rise and fall. Clarity will sharpen and blur.
 
 The lighthouse stands strong and glowing among rough seas because the keeper stays, tends the light, and refuses to let it go dark.
+
+## Continue to Protection
+
+Commitment is not a mood.
+
+It is not a season.
+
+It is not a reward she earns by behaving well.
+
+It is the decision to remain.
+
+But remaining is only the beginning.
+
+Because a man can stay… and still fail to guard what he’s been given.
+
+In the next post, we step into the second pillar: [Protection — creating refuge through strength and leadership](../2026-02-23-2-protection/index.md).
+
+If you’re going to stand, you’d better know what you’re standing for.

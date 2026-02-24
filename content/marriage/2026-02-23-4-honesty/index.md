@@ -2,11 +2,9 @@
 date: 2026-02-23 04:00:00
 slug: "honesty"
 title: "Honesty"
-summary: "SUMMARY GOES HERE"
+summary: "A marriage can survive conflict. It cannot survive distortion."
 
 tags:
-  - tag1
-  - tag2
 
 cover:
   image: "cover.png"
@@ -80,3 +78,21 @@ You cannot correct a course you refuse to measure. You cannot repair what you wi
 Calibrate your compass. Speak what is real. Own what is yours. Remove distortion wherever you find it.
 
 The direction of your marriage depends less on how strongly you feel and more on how truthfully you live.
+
+## Continue to Understanding
+
+Truth matters.
+
+But blunt truth without emotional intelligence becomes a weapon.
+
+Honesty is not just about saying what you think.
+
+It’s about knowing when, how, and why you’re saying it.
+
+Before truth can build, a man must learn to listen.
+
+Next, we step into [Understanding — choosing curiosity before reaction](../2026-02-23-5-understanding/index.md).
+
+Because if you don’t understand her world, you will constantly misread it.
+
+And a man who misreads always misleads.

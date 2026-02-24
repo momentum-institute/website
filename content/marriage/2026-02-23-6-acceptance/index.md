@@ -2,7 +2,7 @@
 date: 2026-02-23 06:00:00
 slug: "acceptance"
 title: "Acceptance"
-summary: "SUMMARY GOES HERE"
+summary: "Growth collapses under pressure when structure becomes coercion rather than support."
 
 tags:
 
@@ -92,3 +92,21 @@ The question is not whether imperfection will appear. It will.
 The question is whether the structure will be strong enough to hold it.
 
 Acceptance answers that question not with force, but with form. It stands, steady and deliberate, allowing two people to climb higher than pressure ever could.
+
+## Continue to Repair
+
+Acceptance doesn’t mean complacency.
+
+You will both fail.
+
+You will both miss.
+
+You will both wound.
+
+The strength of a relationship is not measured by the absence of rupture, but by the speed and humility of repair.
+
+And this is where most men either rise... or retreat.
+
+Next, we step into [Repair — moving toward restoration after conflict](../2026-02-23-7-repair/index.md).
+
+Because the man who cannot repair will slowly lose what he refuses to fight for.

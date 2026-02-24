@@ -2,11 +2,9 @@
 date: 2026-02-23 03:00:00
 slug: "kindness"
 title: "Kindness"
-summary: "SUMMARY GOES HERE"
+summary: "Kindness is the climate of a marriage, and climate decides what can live."
 
 tags:
-  - tag1
-  - tag2
 
 cover:
   image: "cover.png"
@@ -122,3 +120,21 @@ A garden does not ask for perfection. It asks for tending. It asks for consisten
 You cannot force blooms overnight. You can make it safer for growth to return.
 
 And that is what a husband is ultimately deciding. Not whether he will win the argument of the day, not whether he will receive the exact response he wants, but whether he will be the kind of man who maintains a climate where love can breathe.
+
+## Continue to Honesty
+
+Kindness is not softness.
+
+It is strength under control.
+
+But control without truth becomes performance.
+
+Many men learn how to “keep the peace” while quietly building distance through half-truths, omissions, and avoidance.
+
+So now we step into a sharper edge.
+
+The next pillar is [Honesty — clean, direct truth without manipulation or secrecy](../2026-02-23-4-honesty/index.md).
+
+Because kindness without honesty is fragility.
+
+And fragile foundations always crack.

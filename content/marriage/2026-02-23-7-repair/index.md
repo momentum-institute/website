@@ -2,7 +2,7 @@
 date: 2026-02-23 07:00:00
 slug: "repair"
 title: "Repair"
-summary: "SUMMARY GOES HERE"
+summary: "A man who throws away a jacket because it has torn at the elbow has misunderstood what made it valuable in the first place."
 
 tags:
 
@@ -102,3 +102,52 @@ The tear does not define the jacket. The repair defines the owner.
 In marriage, rupture will come. What determines the strength of the bond is whether the man responds with distance or with stitching. When he chooses to mend rather than abandon, he transforms weakness into reinforcement. The seam, once fragile, becomes the strongest line in the fabric.
 
 And the garment, worn again with care, holds.
+
+## Step Into IGNITION
+
+Every relationship will fracture.
+
+The question is not _if_.
+
+It is _who moves first_.
+
+- Continuity.
+- Protection.
+- Kindness.
+- Honesty.
+- Understanding.
+- Acceptance.
+- Repair.
+
+These are not romantic ideals.
+
+They are disciplines.
+
+Most men agree with them.
+
+Few embody them.
+
+Because embodiment requires structure.
+
+- Repetition.
+- Brotherhood.
+- Accountability.
+
+It requires fire.
+
+If you’re done being a man who _knows_ what he should do and ready to become a man **who actually does it**...
+You don’t need more content.
+
+You need structure.
+
+You need challenge.
+
+You need men holding the line with you.
+
+Step into the fire.
+
+Build the man she can trust.
+
+Build the man you respect.
+
+Learn more about [IGNITION — our brotherhood for men ready to forge themselves](../../program/ignition/index.md).
