@@ -39,7 +39,7 @@ The 3F Framework has helped...
 
 - Men who burned out every few months **built structure that made progress sustainable**.
 
-- Men who worked hard but drifted began **producing consistent, visible results**.
+- Men who worked hard but drifted **began producing consistent, visible results**.
 
 The difference was never desire.
 
