@@ -12,7 +12,7 @@ buildExpired: false
 enableEmoji: true
 pygmentsUseClasses: true
 mainsections: ["essays", "series"]
-# googleAnalytics: UA-123-45
+googleAnalytics: G-TZ0JVYWKWW
 
 minify:
   disableXML: true
