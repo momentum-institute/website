@@ -4,7 +4,7 @@ showToc: false
 draft: false
 
 cover:
-  image: "cover.png"
+  image: "ignition-cover.png"
   relative: true
 ---
 
@@ -35,9 +35,9 @@ Our best work has been with the men who do not need another planner, podcast, or
 
 The 3F Framework has helped...
 
-- Men who were stuck in stop-start cycles **finally chose one direction and committed to it**.
+- Men who were stuck in stop-start cycles **finally choose one direction and commit to it**.
 
-- Men who burned out every few months **built structure that made progress sustainable**.
+- Men who burned out every few months **build structure that made progress sustainable**.
 
 - Men who worked hard but drifted **began producing consistent, visible results**.
 
@@ -94,7 +94,7 @@ You leave with a one page Furnace Blueprint you can actually live inside.
 
 **Check Your Ignition Score** -->
 
-![IGNITION](./ignition.png)
+![FINAL STRIKE](./3f-cover.png)
 
 ## Why This Works
 

@@ -11,7 +11,7 @@ buildFuture: false
 buildExpired: false
 enableEmoji: true
 pygmentsUseClasses: true
-mainsections: ["posts"]
+mainsections: ["essays", "series"]
 # googleAnalytics: UA-123-45
 
 minify:
@@ -34,9 +34,6 @@ languages:
         - name: Essays
           url: essays
           weight: 5
-        # - name: Search
-        #   url: search/
-        #   weight: 10
         # - name: Tags
         #   url: tags/
         #   weight: 10
