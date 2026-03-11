@@ -1,0 +1,195 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="11in" height="8.5in" viewBox="0 0 1100 850">
+    <!-- WHITE BACKGROUND -->
+    <rect x="0" y="0" width="1100" height="850" fill="#ffffff" />
+
+    <!-- TITLE -->
+    <text x="40" y="64" font-family="Arial, Times, serif" font-size="40" font-weight="700"
+        fill="#111111">
+        SB11 | Stay Calm When It Counts
+    </text>
+    <text x="42" y="92" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#333333">
+        Topic: Master your mind and emotions with one daily mental discipline practice.
+    </text>
+
+    <!-- CHOICE INTRO PANEL -->
+    <rect x="40" y="115" width="1020" height="110" rx="16" fill="#ffffff" stroke="#111111"
+        stroke-width="2" />
+    <text x="60" y="145" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="700"
+        fill="#111111">
+        The Choice
+    </text>
+    <text x="60" y="170" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#222222">
+        You can keep reacting and calling it stress, snapping, drifting, overthinking, then cleaning
+        up the damage.
+    </text>
+    <text x="60" y="190" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#222222">
+        Or you can train the pause, on purpose, daily, until you respond by choice instead of
+        impulse.
+    </text>
+    <text x="60" y="210" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#222222">
+        Circle one: REACT (old way) RESPOND (new way) Date: ____________ Time: ____________
+    </text>
+
+    <!-- CENTERED HEADER -->
+    <text x="40" y="265" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="700"
+        fill="#111111">
+        CENTERED: Daily Reps That Build Control Under Pressure
+    </text>
+    <text x="40" y="287" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#333333">
+        Fill the small boxes with short, real answers. Keep it simple. Make it usable today.
+    </text>
+
+    <!-- GRID SETTINGS -->
+    <!-- 2 columns x 4 rows of step cards -->
+    <!-- Card size -->
+    <!-- Left margin 40, gap 20 -->
+    <!-- Card width 500, height 125 -->
+    <!-- Row 1 -->
+    <!-- C -->
+    <rect x="40" y="310" width="500" height="125" rx="16" fill="#ffffff" stroke="#111111"
+        stroke-width="2" />
+    <circle cx="72" cy="342" r="18" fill="#111111" />
+    <text x="72" y="348" text-anchor="middle" font-family="Arial, Helvetica, sans-serif"
+        font-size="18" font-weight="700" fill="#ffffff">C</text>
+    <text x="105" y="340" font-family="Arial, Helvetica, sans-serif" font-size="16"
+        font-weight="700" fill="#111111">Commit</text>
+    <text x="105" y="360" font-family="Arial, Helvetica, sans-serif" font-size="9" fill="#222222">Pick
+        ONE daily practice for 7 days (meditation, breathing, journaling, prayer).</text>
+    <text x="60" y="385" font-family="Arial, Helvetica, sans-serif" font-size="9" fill="#222222">My
+        practice (one only):</text>
+    <rect x="190" y="375" width="330" height="18" fill="#ffffff" stroke="#111111" stroke-width="1" />
+    <text x="60" y="410" font-family="Arial, Helvetica, sans-serif" font-size="9" fill="#222222">Why
+        this one fits my biggest struggle:</text>
+    <rect x="260" y="400" width="260" height="24" fill="#ffffff" stroke="#111111" stroke-width="1" />
+
+    <!-- E -->
+    <rect x="560" y="310" width="500" height="125" rx="16" fill="#ffffff" stroke="#111111"
+        stroke-width="2" />
+    <circle cx="592" cy="342" r="18" fill="#111111" />
+    <text x="592" y="348" text-anchor="middle" font-family="Arial, Helvetica, sans-serif"
+        font-size="18" font-weight="700" fill="#ffffff">E</text>
+    <text x="625" y="340" font-family="Arial, Helvetica, sans-serif" font-size="16"
+        font-weight="700" fill="#111111">Establish Time</text>
+    <text x="625" y="360" font-family="Arial, Helvetica, sans-serif" font-size="9" fill="#222222">Schedule
+        it. Same time. Non negotiable. Protect it like training.</text>
+    <text x="580" y="385" font-family="Arial, Helvetica, sans-serif" font-size="9" fill="#222222">Daily
+        time window:</text>
+    <rect x="690" y="375" width="150" height="18" fill="#ffffff" stroke="#111111" stroke-width="1" />
+    <text x="850" y="385" font-family="Arial, Helvetica, sans-serif" font-size="9" fill="#222222">
+        Minutes:</text>
+    <rect x="910" y="375" width="60" height="18" fill="#ffffff" stroke="#111111" stroke-width="1" />
+    <text x="580" y="410" font-family="Arial, Helvetica, sans-serif" font-size="9" fill="#222222">My
+        plan if I miss the time:</text>
+    <rect x="750" y="400" width="290" height="24" fill="#ffffff" stroke="#111111" stroke-width="1" />
+
+    <!-- Row 2 -->
+    <!-- N -->
+    <rect x="40" y="450" width="500" height="125" rx="16" fill="#ffffff" stroke="#111111"
+        stroke-width="2" />
+    <circle cx="72" cy="482" r="18" fill="#111111" />
+    <text x="72" y="488" text-anchor="middle" font-family="Arial, Helvetica, sans-serif"
+        font-size="18" font-weight="700" fill="#ffffff">N</text>
+    <text x="105" y="480" font-family="Arial, Helvetica, sans-serif" font-size="16"
+        font-weight="700" fill="#111111">Notice Triggers</text>
+    <text x="105" y="500" font-family="Arial, Helvetica, sans-serif" font-size="9" fill="#222222">Spot
+        the early signs. Body first. Then thoughts. Then urges.</text>
+    <text x="60" y="525" font-family="Arial, Helvetica, sans-serif" font-size="9" fill="#222222">Top
+        3 triggers this week:</text>
+    <rect x="190" y="515" width="330" height="18" fill="#ffffff" stroke="#111111" stroke-width="1" />
+    <rect x="190" y="537" width="330" height="18" fill="#ffffff" stroke="#111111" stroke-width="1" />
+    <rect x="190" y="559" width="330" height="18" fill="#ffffff" stroke="#111111" stroke-width="1" />
+
+    <!-- T -->
+    <rect x="560" y="450" width="500" height="125" rx="16" fill="#ffffff" stroke="#111111"
+        stroke-width="2" />
+    <circle cx="592" cy="482" r="18" fill="#111111" />
+    <text x="592" y="488" text-anchor="middle" font-family="Arial, Helvetica, sans-serif"
+        font-size="18" font-weight="700" fill="#ffffff">T</text>
+    <text x="625" y="480" font-family="Arial, Helvetica, sans-serif" font-size="16"
+        font-weight="700" fill="#111111">Take a Breath</text>
+    <text x="625" y="500" font-family="Arial, Helvetica, sans-serif" font-size="9" fill="#222222">Run
+        the reset before you speak or act (box breathing works well).</text>
+
+    <!-- Mini breathing tracker -->
+    <text x="580" y="525" font-family="Arial, Helvetica, sans-serif" font-size="9" fill="#222222">My
+        reset plan (check one):</text>
+    <text x="760" y="525" font-family="Arial, Helvetica, sans-serif" font-size="9" fill="#222222">□
+        Box 4-4-4-4</text>
+    <text x="865" y="525" font-family="Arial, Helvetica, sans-serif" font-size="9" fill="#222222">□
+        Slow 6 out</text>
+    <text x="960" y="525" font-family="Arial, Helvetica, sans-serif" font-size="9" fill="#222222">□
+        Other</text>
+    <rect x="580" y="540" width="460" height="30" fill="#ffffff" stroke="#111111" stroke-width="1" />
+    <text x="590" y="558" font-family="Arial, Helvetica, sans-serif" font-size="9" fill="#777777">
+        Where will I use this first (work, home, commute, gym):
+        ________________________________________________
+    </text>
+
+    <!-- Row 3 -->
+    <!-- E -->
+    <rect x="40" y="590" width="500" height="125" rx="16" fill="#ffffff" stroke="#111111"
+        stroke-width="2" />
+    <circle cx="72" cy="622" r="18" fill="#111111" />
+    <text x="72" y="628" text-anchor="middle" font-family="Arial, Helvetica, sans-serif"
+        font-size="18" font-weight="700" fill="#ffffff">E</text>
+    <text x="105" y="620" font-family="Arial, Helvetica, sans-serif" font-size="16"
+        font-weight="700" fill="#111111">Examine Thoughts</text>
+    <text x="105" y="640" font-family="Arial, Helvetica, sans-serif" font-size="9" fill="#222222">Separate
+        feeling from story. Ask what is true and what is useful.</text>
+    <text x="60" y="665" font-family="Arial, Helvetica, sans-serif" font-size="9" fill="#222222">My
+        common story under stress:</text>
+    <rect x="220" y="655" width="300" height="18" fill="#ffffff" stroke="#111111" stroke-width="1" />
+    <text x="60" y="688" font-family="Arial, Helvetica, sans-serif" font-size="9" fill="#222222">A
+        more accurate story:</text>
+    <rect x="190" y="678" width="330" height="18" fill="#ffffff" stroke="#111111" stroke-width="1" />
+
+    <!-- R -->
+    <rect x="560" y="590" width="500" height="125" rx="16" fill="#ffffff" stroke="#111111"
+        stroke-width="2" />
+    <circle cx="592" cy="622" r="18" fill="#111111" />
+    <text x="592" y="628" text-anchor="middle" font-family="Arial, Helvetica, sans-serif"
+        font-size="18" font-weight="700" fill="#ffffff">R</text>
+    <text x="625" y="620" font-family="Arial, Helvetica, sans-serif" font-size="16"
+        font-weight="700" fill="#111111">Respond Deliberately</text>
+    <text x="625" y="640" font-family="Arial, Helvetica, sans-serif" font-size="9" fill="#222222">Choose
+        the next move you respect later. Slow voice. Clean words. Clear action.</text>
+    <text x="580" y="665" font-family="Arial, Helvetica, sans-serif" font-size="9" fill="#222222">My
+        default reaction:</text>
+    <rect x="690" y="655" width="350" height="18" fill="#ffffff" stroke="#111111" stroke-width="1" />
+    <text x="580" y="688" font-family="Arial, Helvetica, sans-serif" font-size="9" fill="#222222">My
+        chosen response:</text>
+    <rect x="700" y="678" width="340" height="18" fill="#ffffff" stroke="#111111" stroke-width="1" />
+
+    <!-- Row 4 -->
+    <!-- E -->
+    <rect x="40" y="730" width="500" height="90" rx="16" fill="#ffffff" stroke="#111111"
+        stroke-width="2" />
+    <circle cx="72" cy="760" r="18" fill="#111111" />
+    <text x="72" y="766" text-anchor="middle" font-family="Arial, Helvetica, sans-serif"
+        font-size="18" font-weight="700" fill="#ffffff">E</text>
+    <text x="105" y="758" font-family="Arial, Helvetica, sans-serif" font-size="16"
+        font-weight="700" fill="#111111">Evaluate Daily</text>
+    <text x="105" y="778" font-family="Arial, Helvetica, sans-serif" font-size="9" fill="#222222">One
+        line per day: did I react or respond?</text>
+    <rect x="60" y="790" width="460" height="18" fill="#ffffff" stroke="#111111" stroke-width="1" />
+
+    <!-- D -->
+    <rect x="560" y="730" width="500" height="90" rx="16" fill="#ffffff" stroke="#111111"
+        stroke-width="2" />
+    <circle cx="592" cy="760" r="18" fill="#111111" />
+    <text x="592" y="766" text-anchor="middle" font-family="Arial, Helvetica, sans-serif"
+        font-size="18" font-weight="700" fill="#ffffff">D</text>
+    <text x="625" y="758" font-family="Arial, Helvetica, sans-serif" font-size="16"
+        font-weight="700" fill="#111111">Discipline Repetition</text>
+    <text x="625" y="778" font-family="Arial, Helvetica, sans-serif" font-size="9" fill="#222222">Write
+        the rule you will follow next week to keep the reps going.</text>
+    <rect x="580" y="790" width="460" height="18" fill="#ffffff" stroke="#111111" stroke-width="1" />
+
+    <!-- FOOTNOTE: ACTION STEPS SUMMARY -->
+    <line x1="40" y1="833" x2="1060" y2="833" stroke="#111111" stroke-width="2" />
+    <text x="40" y="848" font-family="Arial, Helvetica, sans-serif" font-size="11" fill="#111111">
+        Action steps summary: 1) Lock It In: choose and schedule one daily practice. 2) Slow the
+        Surge: use controlled breathing when triggered. 3) Choose the Move: respond on purpose to
+        build trust and focus.
+    </text>
+</svg>
